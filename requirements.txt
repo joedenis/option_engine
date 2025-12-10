@@ -1,0 +1,13 @@
+# Core numerical and data libraries
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional performance acceleration
+numba>=0.57.0
+
+# Testing framework
+pytest>=8.0.0
+
+# Optional plotting (for backtests or analysis)
+matplotlib>=3.8.0
+seaborn>=0.12.0
