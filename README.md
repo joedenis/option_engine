@@ -26,12 +26,4 @@ Key features:
 - Dynamic hedging backtesting
 - Performance optimizations using NumPy and Numba
 
-## Installation
-
-```bash
-git clone <repo_url>
-cd quant-dev-project
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
 
